@@ -1,2 +1,6 @@
 # delta-demo2
 This is a demo for git and github.
+# Teacher
+Shradha Khapra
+# Student
+Khushi
